@@ -1,0 +1,2 @@
+BindReward("mattress", "art\cars\mattress.p3d", "car", "forsale", 1, 0, "gil");
+SetCarAttributes("mattress", 3, 3, 3, 3);
