@@ -19,3 +19,6 @@ The engine sound changes when you change the engine, depending on how strong you
 ### Disclaimer!
 The main download (https://mega.nz/file/w0sXna6a#N7Uwj1XdxRueClcmt9TkBQ_03x37PaR0KSiJ4ymmH7Q) is mainly a framework for the addons & custom vehicles to work.
 It is recommended that you do not modify this file!
+
+# Custom Vehicle Template
+The custom vehicle template is now available, check dt_mattress (https://github.com/mazexz7/Dynamic-Tunning/tree/main/dt_mattress)
